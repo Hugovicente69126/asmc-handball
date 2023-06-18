@@ -1,0 +1,14 @@
+.btn-red {
+	background-color: #F5EFE7;
+	padding: 15px 20px;
+	border-radius: 10px;
+	font-family: 'Geologica', sans-serif;
+	font-weight: ;
+	color: black;
+	
+}
+.btn-red:hover {
+	font-weight: bold;
+	font-style:normal;
+
+}
